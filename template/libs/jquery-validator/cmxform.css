@@ -38,8 +38,8 @@ form.cmxform label.error, label.error {
 	color: red;
 	font-size: 12px;
 	#position: absolute;
-	#top: 37px;
-	#left: 39px;
+	#top: 21.3rem;
+	#left: 48rem;
 
 }
 div.error { display: none; }
